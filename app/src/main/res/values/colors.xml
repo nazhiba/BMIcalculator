@@ -4,5 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="background">#393939</color>
     <color name="tombol">#FFBF00</color>
+    <color name="Surend">#F44336</color>
+    <color name="hijau">#00FF22</color>
 
 </resources>
