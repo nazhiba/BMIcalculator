@@ -184,7 +184,6 @@
                 android:id="@+id/jawaban"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="2000"
                 android:textAlignment="center"
                 android:textColor="@color/white"
                 android:textSize="48sp"
